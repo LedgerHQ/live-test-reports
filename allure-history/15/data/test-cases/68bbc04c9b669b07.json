@@ -1,0 +1,46 @@
+{
+  "uid" : "68bbc04c9b669b07",
+  "name" : "should start in this state",
+  "fullName" : "Swap.should start in this state",
+  "historyId" : "670768607e4988747187c66737ba7a38",
+  "time" : {
+    "start" : 1616499328060,
+    "stop" : 1616499346485,
+    "duration" : 18425
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Swap"
+  }, {
+    "name" : "testClass",
+    "value" : "Swap"
+  }, {
+    "name" : "testMethod",
+    "value" : "should start in this state"
+  }, {
+    "name" : "package",
+    "value" : "Swap"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "68bbc04c9b669b07.json",
+  "parameterValues" : [ ]
+}

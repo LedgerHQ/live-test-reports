@@ -1,0 +1,26 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "children" : [ {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "Error: Expected image to match or be a close match to snapshot but was 43.749745686848954% different from snapshot (344062 differing pixels).\n                See diff for details: /home/runner/work/ledger-live-desktop/ledger-live-desktop/tests/specs/__image_snapshots__/__diff_output__/swap-end-1-diff.png",
+      "children" : [ {
+        "name" : "should appear in the history",
+        "uid" : "74485fc412326fae",
+        "parentUid" : "7330c072fc7611686f84007567aba058",
+        "status" : "failed",
+        "time" : {
+          "start" : 1616499382891,
+          "stop" : 1616499414350,
+          "duration" : 31459
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "7330c072fc7611686f84007567aba058"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ],
+  "name" : "categories"
+}

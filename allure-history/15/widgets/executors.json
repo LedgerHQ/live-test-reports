@@ -1,0 +1,10 @@
+[ {
+  "name" : "GitHub Actions",
+  "type" : "github",
+  "url" : "https://LedgerHQ.github.io/ledger-live-desktop/allure-history",
+  "buildOrder" : 15,
+  "buildName" : "GitHub Actions Run #679390125",
+  "buildUrl" : "https://github.com/LedgerHQ/ledger-live-desktop/actions/runs/679390125",
+  "reportName" : "Allure Report with history",
+  "reportUrl" : "https://LedgerHQ.github.io/ledger-live-desktop/allure-history/15/"
+} ]

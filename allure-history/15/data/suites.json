@@ -1,0 +1,113 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "children" : [ {
+    "name" : "Swap",
+    "children" : [ {
+      "name" : "should start in this state",
+      "uid" : "68bbc04c9b669b07",
+      "parentUid" : "f478113ef08a54bc40832bdfcb626288",
+      "status" : "passed",
+      "time" : {
+        "start" : 1616499328060,
+        "stop" : 1616499346485,
+        "duration" : 18425
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "access the feature",
+      "uid" : "3bd31565e7ec93f6",
+      "parentUid" : "f478113ef08a54bc40832bdfcb626288",
+      "status" : "passed",
+      "time" : {
+        "start" : 1616499346485,
+        "stop" : 1616499347904,
+        "duration" : 1419
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "pass KYC landing",
+      "uid" : "9a33480a67bb8afa",
+      "parentUid" : "f478113ef08a54bc40832bdfcb626288",
+      "status" : "passed",
+      "time" : {
+        "start" : 1616499347904,
+        "stop" : 1616499354338,
+        "duration" : 6434
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "fill the form and get rates",
+      "uid" : "4a2f8301268a640a",
+      "parentUid" : "f478113ef08a54bc40832bdfcb626288",
+      "status" : "passed",
+      "time" : {
+        "start" : 1616499354338,
+        "stop" : 1616499359768,
+        "duration" : 5430
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "confirm summary step",
+      "uid" : "3ed9569890bbdbb7",
+      "parentUid" : "f478113ef08a54bc40832bdfcb626288",
+      "status" : "passed",
+      "time" : {
+        "start" : 1616499359768,
+        "stop" : 1616499362199,
+        "duration" : 2431
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "confirm swap on device and broadcast step",
+      "uid" : "d48a29dd7fc69081",
+      "parentUid" : "f478113ef08a54bc40832bdfcb626288",
+      "status" : "passed",
+      "time" : {
+        "start" : 1616499362199,
+        "stop" : 1616499382891,
+        "duration" : 20692
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "should appear in the history",
+      "uid" : "74485fc412326fae",
+      "parentUid" : "f478113ef08a54bc40832bdfcb626288",
+      "status" : "failed",
+      "time" : {
+        "start" : 1616499382891,
+        "stop" : 1616499414350,
+        "duration" : 31459
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "should show operation details modal",
+      "uid" : "53fcb7755cf70419",
+      "parentUid" : "f478113ef08a54bc40832bdfcb626288",
+      "status" : "passed",
+      "time" : {
+        "start" : 1616499414350,
+        "stop" : 1616499416197,
+        "duration" : 1847
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "f478113ef08a54bc40832bdfcb626288"
+  } ],
+  "name" : "suites"
+}

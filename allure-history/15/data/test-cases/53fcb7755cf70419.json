@@ -1,0 +1,46 @@
+{
+  "uid" : "53fcb7755cf70419",
+  "name" : "should show operation details modal",
+  "fullName" : "Swap.should show operation details modal",
+  "historyId" : "d92375e2c2402a4191f133417081765a",
+  "time" : {
+    "start" : 1616499414350,
+    "stop" : 1616499416197,
+    "duration" : 1847
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Swap"
+  }, {
+    "name" : "testClass",
+    "value" : "Swap"
+  }, {
+    "name" : "testMethod",
+    "value" : "should show operation details modal"
+  }, {
+    "name" : "package",
+    "value" : "Swap"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "53fcb7755cf70419.json",
+  "parameterValues" : [ ]
+}

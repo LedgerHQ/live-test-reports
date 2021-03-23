@@ -1,0 +1,163 @@
+{
+  "318dd36ae202238b31fa60ce9920c2c5" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "3ed9569890bbdbb7",
+      "reportUrl" : "https://LedgerHQ.github.io/ledger-live-desktop/allure-history/15//#testresult/3ed9569890bbdbb7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1616499359768,
+        "stop" : 1616499362199,
+        "duration" : 2431
+      }
+    } ]
+  },
+  "da534b0b1df0c03117c43fe298e4b513" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d48a29dd7fc69081",
+      "reportUrl" : "https://LedgerHQ.github.io/ledger-live-desktop/allure-history/15//#testresult/d48a29dd7fc69081",
+      "status" : "passed",
+      "time" : {
+        "start" : 1616499362199,
+        "stop" : 1616499382891,
+        "duration" : 20692
+      }
+    } ]
+  },
+  "1fd77cf5961b8351b4ee508ded8f7cc0" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "4a2f8301268a640a",
+      "reportUrl" : "https://LedgerHQ.github.io/ledger-live-desktop/allure-history/15//#testresult/4a2f8301268a640a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1616499354338,
+        "stop" : 1616499359768,
+        "duration" : 5430
+      }
+    } ]
+  },
+  "b04825767c22e90312e21d85070413a4" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "3bd31565e7ec93f6",
+      "reportUrl" : "https://LedgerHQ.github.io/ledger-live-desktop/allure-history/15//#testresult/3bd31565e7ec93f6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1616499346485,
+        "stop" : 1616499347904,
+        "duration" : 1419
+      }
+    } ]
+  },
+  "c1e637d160bf818291d1b92bf1bf14a9" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "9a33480a67bb8afa",
+      "reportUrl" : "https://LedgerHQ.github.io/ledger-live-desktop/allure-history/15//#testresult/9a33480a67bb8afa",
+      "status" : "passed",
+      "time" : {
+        "start" : 1616499347904,
+        "stop" : 1616499354338,
+        "duration" : 6434
+      }
+    } ]
+  },
+  "d92375e2c2402a4191f133417081765a" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "53fcb7755cf70419",
+      "reportUrl" : "https://LedgerHQ.github.io/ledger-live-desktop/allure-history/15//#testresult/53fcb7755cf70419",
+      "status" : "passed",
+      "time" : {
+        "start" : 1616499414350,
+        "stop" : 1616499416197,
+        "duration" : 1847
+      }
+    } ]
+  },
+  "670768607e4988747187c66737ba7a38" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "68bbc04c9b669b07",
+      "reportUrl" : "https://LedgerHQ.github.io/ledger-live-desktop/allure-history/15//#testresult/68bbc04c9b669b07",
+      "status" : "passed",
+      "time" : {
+        "start" : 1616499328060,
+        "stop" : 1616499346485,
+        "duration" : 18425
+      }
+    } ]
+  },
+  "d616c050e46743d684d55d8bcf9c6494" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "74485fc412326fae",
+      "reportUrl" : "https://LedgerHQ.github.io/ledger-live-desktop/allure-history/15//#testresult/74485fc412326fae",
+      "status" : "failed",
+      "statusDetails" : "Error: Expected image to match or be a close match to snapshot but was 43.749745686848954% different from snapshot (344062 differing pixels).\n                See diff for details: /home/runner/work/ledger-live-desktop/ledger-live-desktop/tests/specs/__image_snapshots__/__diff_output__/swap-end-1-diff.png",
+      "time" : {
+        "start" : 1616499382891,
+        "stop" : 1616499414350,
+        "duration" : 31459
+      }
+    } ]
+  }
+}

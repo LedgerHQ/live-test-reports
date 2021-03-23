@@ -1,0 +1,46 @@
+{
+  "uid" : "3bd31565e7ec93f6",
+  "name" : "access the feature",
+  "fullName" : "Swap.access the feature",
+  "historyId" : "b04825767c22e90312e21d85070413a4",
+  "time" : {
+    "start" : 1616499346485,
+    "stop" : 1616499347904,
+    "duration" : 1419
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Swap"
+  }, {
+    "name" : "testClass",
+    "value" : "Swap"
+  }, {
+    "name" : "testMethod",
+    "value" : "access the feature"
+  }, {
+    "name" : "package",
+    "value" : "Swap"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3bd31565e7ec93f6.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,46 @@
+{
+  "uid" : "4a2f8301268a640a",
+  "name" : "fill the form and get rates",
+  "fullName" : "Swap.fill the form and get rates",
+  "historyId" : "1fd77cf5961b8351b4ee508ded8f7cc0",
+  "time" : {
+    "start" : 1616499354338,
+    "stop" : 1616499359768,
+    "duration" : 5430
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Swap"
+  }, {
+    "name" : "testClass",
+    "value" : "Swap"
+  }, {
+    "name" : "testMethod",
+    "value" : "fill the form and get rates"
+  }, {
+    "name" : "package",
+    "value" : "Swap"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4a2f8301268a640a.json",
+  "parameterValues" : [ ]
+}

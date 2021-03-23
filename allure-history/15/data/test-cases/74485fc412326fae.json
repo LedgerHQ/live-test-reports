@@ -1,0 +1,70 @@
+{
+  "uid" : "74485fc412326fae",
+  "name" : "should appear in the history",
+  "fullName" : "Swap.should appear in the history",
+  "historyId" : "d616c050e46743d684d55d8bcf9c6494",
+  "time" : {
+    "start" : 1616499382891,
+    "stop" : 1616499414350,
+    "duration" : 31459
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "Error: Expected image to match or be a close match to snapshot but was 43.749745686848954% different from snapshot (344062 differing pixels).\n                See diff for details: /home/runner/work/ledger-live-desktop/ledger-live-desktop/tests/specs/__image_snapshots__/__diff_output__/swap-end-1-diff.png",
+  "statusTrace" : "Error: Expected image to match or be a close match to snapshot but was 43.749745686848954% different from snapshot (344062 differing pixels).\n                See diff for details: /home/runner/work/ledger-live-desktop/ledger-live-desktop/tests/specs/__image_snapshots__/__diff_output__/swap-end-1-diff.png\n                    at Object.<anonymous> (/home/runner/work/ledger-live-desktop/ledger-live-desktop/tests/specs/swap.spec.js:171:43)\n                    at processTicksAndRejections (internal/process/task_queues.js:97:5)",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "failed",
+    "statusMessage" : "Error: Expected image to match or be a close match to snapshot but was 43.749745686848954% different from snapshot (344062 differing pixels).\n                See diff for details: /home/runner/work/ledger-live-desktop/ledger-live-desktop/tests/specs/__image_snapshots__/__diff_output__/swap-end-1-diff.png",
+    "statusTrace" : "Error: Expected image to match or be a close match to snapshot but was 43.749745686848954% different from snapshot (344062 differing pixels).\n                See diff for details: /home/runner/work/ledger-live-desktop/ledger-live-desktop/tests/specs/__image_snapshots__/__diff_output__/swap-end-1-diff.png\n                    at Object.<anonymous> (/home/runner/work/ledger-live-desktop/ledger-live-desktop/tests/specs/swap.spec.js:171:43)\n                    at processTicksAndRejections (internal/process/task_queues.js:97:5)",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "784ce991678a3c71",
+      "name" : "swap-end-1",
+      "source" : "784ce991678a3c71.png",
+      "type" : "image/png",
+      "size" : 133602
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : true,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Swap"
+  }, {
+    "name" : "testClass",
+    "value" : "Swap"
+  }, {
+    "name" : "testMethod",
+    "value" : "should appear in the history"
+  }, {
+    "name" : "package",
+    "value" : "Swap"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "74485fc412326fae.json",
+  "parameterValues" : [ ]
+}

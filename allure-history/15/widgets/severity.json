@@ -1,0 +1,81 @@
+[ {
+  "uid" : "68bbc04c9b669b07",
+  "name" : "should start in this state",
+  "time" : {
+    "start" : 1616499328060,
+    "stop" : 1616499346485,
+    "duration" : 18425
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "74485fc412326fae",
+  "name" : "should appear in the history",
+  "time" : {
+    "start" : 1616499382891,
+    "stop" : 1616499414350,
+    "duration" : 31459
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "9a33480a67bb8afa",
+  "name" : "pass KYC landing",
+  "time" : {
+    "start" : 1616499347904,
+    "stop" : 1616499354338,
+    "duration" : 6434
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d48a29dd7fc69081",
+  "name" : "confirm swap on device and broadcast step",
+  "time" : {
+    "start" : 1616499362199,
+    "stop" : 1616499382891,
+    "duration" : 20692
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3ed9569890bbdbb7",
+  "name" : "confirm summary step",
+  "time" : {
+    "start" : 1616499359768,
+    "stop" : 1616499362199,
+    "duration" : 2431
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "53fcb7755cf70419",
+  "name" : "should show operation details modal",
+  "time" : {
+    "start" : 1616499414350,
+    "stop" : 1616499416197,
+    "duration" : 1847
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3bd31565e7ec93f6",
+  "name" : "access the feature",
+  "time" : {
+    "start" : 1616499346485,
+    "stop" : 1616499347904,
+    "duration" : 1419
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4a2f8301268a640a",
+  "name" : "fill the form and get rates",
+  "time" : {
+    "start" : 1616499354338,
+    "stop" : 1616499359768,
+    "duration" : 5430
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]
