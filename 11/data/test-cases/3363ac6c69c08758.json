@@ -1,0 +1,46 @@
+{
+  "uid" : "3363ac6c69c08758",
+  "name" : "confirm swap on device and broadcast step",
+  "fullName" : "Swap.confirm swap on device and broadcast step",
+  "historyId" : "da534b0b1df0c03117c43fe298e4b513",
+  "time" : {
+    "start" : 1616495146231,
+    "stop" : 1616495166584,
+    "duration" : 20353
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Swap"
+  }, {
+    "name" : "testClass",
+    "value" : "Swap"
+  }, {
+    "name" : "testMethod",
+    "value" : "confirm swap on device and broadcast step"
+  }, {
+    "name" : "package",
+    "value" : "Swap"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3363ac6c69c08758.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,46 @@
+{
+  "uid" : "c80cb4393f9ccd8d",
+  "name" : "confirm summary step",
+  "fullName" : "Swap.confirm summary step",
+  "historyId" : "318dd36ae202238b31fa60ce9920c2c5",
+  "time" : {
+    "start" : 1616495143872,
+    "stop" : 1616495146231,
+    "duration" : 2359
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Swap"
+  }, {
+    "name" : "testClass",
+    "value" : "Swap"
+  }, {
+    "name" : "testMethod",
+    "value" : "confirm summary step"
+  }, {
+    "name" : "package",
+    "value" : "Swap"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c80cb4393f9ccd8d.json",
+  "parameterValues" : [ ]
+}

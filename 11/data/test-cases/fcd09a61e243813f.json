@@ -1,0 +1,46 @@
+{
+  "uid" : "fcd09a61e243813f",
+  "name" : "pass KYC landing",
+  "fullName" : "Swap.pass KYC landing",
+  "historyId" : "c1e637d160bf818291d1b92bf1bf14a9",
+  "time" : {
+    "start" : 1616495132408,
+    "stop" : 1616495138788,
+    "duration" : 6380
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Swap"
+  }, {
+    "name" : "testClass",
+    "value" : "Swap"
+  }, {
+    "name" : "testMethod",
+    "value" : "pass KYC landing"
+  }, {
+    "name" : "package",
+    "value" : "Swap"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "fcd09a61e243813f.json",
+  "parameterValues" : [ ]
+}
